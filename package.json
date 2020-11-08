@@ -2,6 +2,9 @@
   "name": "carnet",
   "version": "1.0.0",
   "main": "index.js",
+  "engines": {
+    "node": ">=14.1.0"
+  },
   "license": "MIT",
   "dependencies": {
     "axios": "^0.20.0",
